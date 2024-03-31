@@ -21,12 +21,10 @@ The dataset used in this project contains the following features:
 14. Target: Presence of heart disease (0 = no, 1 = yes).
 
 ## Project Structure
-- `data/`: Contains the dataset used for training and testing.
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
-- `src/`: Source code for the heart disease detection model.
-- `models/`: Trained models saved here.
-- `requirements.txt`: List of Python dependencies required for the project.
 - `README.md`: This file providing an overview of the project.
+- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
+- `data/`: Contains the dataset used for training and testing.
+- `requirements.txt`: List of Python dependencies required for the project.
 
 ## Usage
 1. Clone this repository to your local machine.
