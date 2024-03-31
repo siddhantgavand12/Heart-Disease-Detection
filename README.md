@@ -35,9 +35,4 @@ The dataset used in this project contains the following features:
 4. Use the trained models for heart disease prediction on new data.
 5. Refer to the notebooks and source code for detailed implementation and analysis.
 
-## Contributors
-- [Your Name](https://github.com/your_username)
-- [Collaborator Name](https://github.com/collaborator_username)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
