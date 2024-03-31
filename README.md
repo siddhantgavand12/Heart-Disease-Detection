@@ -29,7 +29,7 @@ The dataset used in this project contains the following features:
 ## Usage
 1. Clone this repository to your local machine.
 2. Install the dependencies listed in `requirements.txt`.
-3. Navigate to the `notebooks/` directory and run the Jupyter notebooks to explore the data and train models.
+3. Navigate to Jupyter notebook to explore the data and train models.
 4. Use the trained models for heart disease prediction on new data.
 5. Refer to the notebooks and source code for detailed implementation and analysis.
 
