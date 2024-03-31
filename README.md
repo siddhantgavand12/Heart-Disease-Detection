@@ -22,8 +22,8 @@ The dataset used in this project contains the following features:
 
 ## Project Structure
 - `README.md`: This file providing an overview of the project.
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
-- `data/`: Contains the dataset used for training and testing.
+- `heart.csv`: Contains the dataset used for training and testing.
+- `heart_diseases`: Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
 - `requirements.txt`: List of Python dependencies required for the project.
 
 ## Usage
