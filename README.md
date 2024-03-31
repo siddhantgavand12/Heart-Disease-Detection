@@ -1,7 +1,7 @@
 # Heart Disease Detection
 
 ## Overview
-This project aims to predict the presence of heart disease based on various medical attributes of patients. It utilizes machine learning techniques to analyze a dataset containing information about patients' age, sex, chest pain type, resting blood pressure, serum cholesterol level, fasting blood sugar level, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise, slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, thalassemia, and the presence of heart disease.
+This our IEEE AI-for-Healthcare project aims to predict the presence of heart disease based on various medical attributes of patients. It utilizes machine learning techniques to analyze a dataset containing information about patients' age, sex, chest pain type, resting blood pressure, serum cholesterol level, fasting blood sugar level, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise, slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, thalassemia, and the presence of heart disease.
 
 ## Dataset
 The dataset used in this project contains the following features:
